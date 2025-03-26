@@ -6,6 +6,27 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+# Finances
+
+This project is a finance management application built with React.
+
+## Features
+
+- Track your income and expenses
+- Visualize financial data with charts
+- Manage multiple accounts
+
+## How to Run the Project
+
+To run both the frontend and backend, use the following command:
+
+\`\`\`
+npm run start
+\`\`\`
+
+Then, open [http://localhost:3000](http://localhost:3000) in your browser.
+`;
+
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -68,4 +89,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
 # finances
