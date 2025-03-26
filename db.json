@@ -1,24 +1,5 @@
 {
-  "projects": [
-    {
-      "id": "aeb7",
-      "name": "João",
-      "budget": "5000",
-      "category": {
-        "id": "4",
-        "name": "Planejamento"
-      },
-      "cost": 500,
-      "services": [
-        {
-          "name": "Bom dia",
-          "cost": "500",
-          "description": "Uma mensagem",
-          "id": "1dd50faa-84ef-4d2c-97f7-def763d1776a"
-        }
-      ]
-    }
-  ],
+  "projects": [],
   "categories": [
     {
       "id": "1",

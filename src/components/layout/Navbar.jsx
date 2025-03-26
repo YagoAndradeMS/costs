@@ -22,12 +22,12 @@ function Navbar() {
           <li>
             <Link to='/newproject'></Link>
           </li>
-          <li className={styles.item}>
+          {/* <li className={styles.item}>
             <Link to='/company'>Empresa</Link>
           </li>
           <li className={styles.item}>
             <Link to='/contact'>Contato</Link>
-          </li>
+          </li> */}
         </ul>
       </Container>
     </nav>

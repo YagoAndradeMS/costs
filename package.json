@@ -24,6 +24,7 @@
     "eject": "react-scripts eject"
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "concurrently": "^6.0.0"
   },
   "eslintConfig": {
